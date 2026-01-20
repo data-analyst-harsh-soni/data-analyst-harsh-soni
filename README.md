@@ -1,18 +1,86 @@
-# 💫 About Me:
-Harsh Soni<br>Data Analyst Aspirant | B.Tech (CSE) Student<br><br>Detail-oriented data analytics student with hands-on experience in SQL, Power BI, Python, Statistics, and Data Visualization. Skilled in building end-to-end dashboards, creating realistic datasets, and extracting business-driven insights. Actively seeking opportunities to apply analytical skills in real-world projects and entry-level roles.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_official_harsh_62) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/data-analyst-harsh-soni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshnewa@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=data-analyst-harsh-soni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=data-analyst-harsh-soni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-analyst-harsh-soni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="object-fit:cover; border-radius: 10px"/>
+  
+  <h1 align="center">Hi there, I'm Harsh Soni! 👋</h1>
+  
+  <p align="center">
+    <b>Aspiring Data Analyst | B.Tech (CSE) | Problem Solver</b>
+  </p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harsh-soni-data-analyst">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=data-analyst-harsh-soni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I am a **Computer Science Engineering student** and an aspiring **Data Analyst** from Jabalpur, India. I am passionate about transforming raw data into meaningful stories that drive business decisions. 
+
+My journey involves building dashboards, cleaning complex datasets, and even exploring solar energy technology. I love bridging the gap between technical code and business strategy.
+
+- 🔭 I’m currently working on **Advanced Power BI Dashboards**
+- 🌱 I’m currently learning **Advanced SQL & Machine Learning**
+- 💬 Ask me about **Excel, Python for Data, and Solar Energy Tech**
+
+---
+
+### 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel,html,css,js,vscode,github,git" />
+</div>
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Data Analysis** | Python (Pandas, NumPy), Excel (Pivot Tables, Power Query) |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Databases** | MySQL, SQL Server |
+| **Development** | HTML, CSS, JavaScript (Web Dev Basics) |
+
+---
+
+### 📊 Featured Projects
+
+#### 1. [Retail Sales & Customer Insights Dashboard](https://github.com/data-analyst-harsh-soni/YOUR-REPO-NAME-HERE)
+*An interactive Excel dashboard analyzing customer purchasing behavior, profitability, and seasonal trends.*
+- **Tech:** Excel, Pivot Charts, Slicers
+- **Key Insight:** Identified "Credit Card" as the most profitable payment method and "Spring" as the peak sales season.
+
+#### 2. [Solar For All (Web Platform)](https://github.com/data-analyst-harsh-soni/YOUR-REPO-NAME-HERE)
+*A web platform designed to promote solar energy adoption, featuring a solar calculator and AI integration.*
+- **Tech:** HTML, CSS, JavaScript, Vercel
+- **Achievement:** Project created for the NASA Space Apps Challenge 2025.
+
+#### 3. [Data Cleaning & Visualization](https://github.com/data-analyst-harsh-soni/Data-Cleaning-Visualization-Project-using-Python-Real-World-Data-from-Web-Source-)
+*A Python-based project focusing on cleaning real-world raw data and generating visual insights.*
+- **Tech:** Python, Pandas, Matplotlib
+
+#### 4. [Aadhaar Enrolment Analytics](https://github.com/data-analyst-harsh-soni/YOUR-REPO-NAME-HERE)
+*An analytical project using official government datasets to visualize enrolment trends.*
+- **Tech:** Power BI, Data Analysis
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=data-analyst-harsh-soni&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Harsh's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-analyst-harsh-soni&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Harsh's Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-analyst-harsh-soni&theme=tokyonight&hide_border=true" alt="Harsh's Streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Data is the new oil. It’s valuable, but if unrefined it cannot really be used."</i>
+</div>
